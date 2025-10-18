@@ -3,9 +3,9 @@ local VirtualUser = game:GetService("VirtualUser")
 
 -- === INICIO WHITELIST POR USERID ===
 local userIdWhitelist = {
-    12345678, -- reemplaza con tus UserIds reales
-    23456789,
-    34567890,
+    8946103059, -- reemplaza con tus UserIds reales
+    ,
+    ,
 }
 
 local function isWhitelisted(userId)
